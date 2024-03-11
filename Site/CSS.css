@@ -1,0 +1,24 @@
+body{
+    background-color: black;
+    color: white;
+    margin: 0;
+}
+
+#barra {
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0;
+    width: 100%;
+    
+}
+
+#Esquerdo, #Direito {
+    padding: 5px;
+}
+h1{
+    text-align: center;
+    font-family: Impact ;
+    font-size: 40px;
+}
